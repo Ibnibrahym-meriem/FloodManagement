@@ -266,6 +266,3 @@ Puis toutes les **5 secondes**, les mesures des capteurs s'affichent. Après que
 
 ---
 
-## Auteur
-
-Projet réalisé dans le cadre du cours **Intelligence Artificielle et Systèmes Distribués (IASD S2)**.
