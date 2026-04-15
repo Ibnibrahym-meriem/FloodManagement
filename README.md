@@ -1,4 +1,4 @@
-# 🌊 FloodManagement — Système Multi-Agents 
+# 🌊 FloodManagement 
 
 > Simulation d'un système de gestion de crue basé sur une architecture multi-agents avec MadKit 5.
 
