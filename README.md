@@ -214,7 +214,7 @@ java -cp "bin:lib/madkit-5.3.2.jar" launcher.Launcher
 
 ---
 
-## Résultat attendu
+## RESULTAT ATTENDU
 
 Au démarrage, la console affiche l'activation de tous les agents :
 
@@ -245,7 +245,7 @@ Puis toutes les **5 secondes**, les mesures des capteurs s'affichent. Après que
 
 ---
 
-## Erreurs fréquentes
+## ERREURS FREQUENTES 
 
 | Erreur | Cause | Solution |
 |--------|-------|----------|
@@ -258,7 +258,7 @@ Puis toutes les **5 secondes**, les mesures des capteurs s'affichent. Après que
 
 ---
 
-## Technologies
+## TECHNOLOGIES
 
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
 ![MadKit](https://img.shields.io/badge/MadKit-5.3.2-blue)
