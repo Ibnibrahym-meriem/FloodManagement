@@ -112,7 +112,7 @@ javac -version
 
 ---
 
-## Installation & Configuration
+## Installation 
 
 ### 1. Cloner le dépôt
 
